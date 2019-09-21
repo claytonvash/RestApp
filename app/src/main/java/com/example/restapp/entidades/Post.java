@@ -40,13 +40,17 @@ public class Post {
         this.id = id;
     }
 
+
+
     public String getTitle() {
         return title;
     }
 
+
     public void setTitle(String title) {
         this.title = title;
     }
+
 
     public String getBody() {
         return body;
@@ -55,5 +59,6 @@ public class Post {
     public void setBody(String body) {
         this.body = body;
     }
+
 
 }

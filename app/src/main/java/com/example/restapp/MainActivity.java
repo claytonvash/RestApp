@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
 
+
+
             @Override
             public void onFailure(Call<List<User>> call, Throwable t) {
                 Log.e("RestApp", t.getStackTrace().toString());

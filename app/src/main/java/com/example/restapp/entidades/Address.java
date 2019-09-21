@@ -7,6 +7,9 @@ public class Address {
     private String zipcode;
     private Geo geo;
 
+
+
+
     public String getStreet() {
         return street;
     }

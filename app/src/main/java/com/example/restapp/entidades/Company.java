@@ -5,6 +5,9 @@ public class Company {
     private String catchPhrase;
     private String bs;
 
+
+
+
     public String getName() {
         return name;
     }
